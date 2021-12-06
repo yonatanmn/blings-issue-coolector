@@ -6,18 +6,24 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Blings issue collector!</title>
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Click on top to submit a bug" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Make sure to add:    
         </p>
+    <p>
+    
+              your name
+              application (<code>Platform</code><code>Playground</code><code>AE Extension</code> or <code>Player/Engine</code>)
+              repro steps
+              screenshots or screen recordings
+    </p>
       </main>
 
-      <Footer />
+//       <Footer />
     </div>
   )
 }
