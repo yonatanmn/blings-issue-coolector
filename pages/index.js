@@ -12,10 +12,10 @@ export default function Home() {
       <main>
      <p>Make sure to add:</p>
 <ul>
-<li>your name and email,</li>
-<li>application (<code>Platform</code><code>Playground</code><code>AE Extension</code> or <code>Player/Engine</code>)</li>
-<li>repro steps</li>
-<li>screenshots or screen recordings</li>
+<h5>your name and email,</h5>
+<h5>application (<code>Platform</code><code>Playground</code><code>AE Extension</code> or <code>Player/Engine</code>)</h5>
+<h5>repro steps</h5>
+<h5>screenshots or screen recordings</h5>
 </ul>
       </main>
 
