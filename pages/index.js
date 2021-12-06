@@ -10,6 +10,8 @@ export default function Home() {
       </Head>
 
       <main>
+            <h2>Blings issue collector!</h2>
+
      <p>Make sure to add:</p>
 <ul>
 <h5>your name and email,</h5>
